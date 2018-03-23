@@ -51,11 +51,6 @@ theme = "resume"
     link = "https://bitbucket.org/vineethrao/"
 
 [[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
     name = "Keybase"
     icon = "key"
     link = "https://keybase.io/vineeth"
