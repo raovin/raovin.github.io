@@ -1,0 +1,63 @@
+baseURL = "https://rao.vin/"
+languageCode = "en-us"
+title = "Vineeth Rao"
+theme = "resume"
+
+[params]
+    firstName = "Vineeth"
+    lastName = "Rao"
+    address = "Boston, MA"
+    phone = "1-614-600-2165"
+    contactNote = "IT Support Engineer"
+    profileImage = "img/TechChat.png"
+    email = "RAO.VIN"
+    description = "Physics graduate. Interested in big data."
+    favicon = "img/vin.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+    showRecommendations = true
+    showRepertoire = true
+    showQr = true
+
+[[params.handles]]
+    name = "Mail"
+    link = "mailto:mail@rao.vin"
+    icon = "envelope"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://linkedin.rao.vin"
+	
+[[params.handles]]
+    name = "XING"
+    link = "https://www.xing.com/profile/Vineeth_DeviPrasadRao"
+
+[[params.handles]]
+	name = "Viadeo"
+	link = "http://us.viadeo.com/en/profile/vineeth"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/vineethrao/"
+	
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/vineethrao/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/82880"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    icon = "key"
+    link = "https://keybase.io/vineeth"
+
+[params.google.analytics]
+    trackerID = "UA-115746444-1"

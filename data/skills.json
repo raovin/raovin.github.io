@@ -1,0 +1,32 @@
+[
+  {
+      "grouping":"Networking",
+      "skills":[ "IP Networking","DNS","DHCP","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },
+  {
+      "grouping":"Operating Systems",
+      "skills":[ "Windows","Macintosh", "Android", "Ubuntu", "RedHat"]
+  },
+  {
+      "grouping":"Automation",
+      "skills":[ "Jenkins"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Windows PowerShell","Python","Git","Bash","HTML","CSS","Javascript"]
+  },
+
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":["Atlassian","Bitbucket","NGINX","MySQL","Wordpress"]
+  },
+  
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Docker","link":"https://cloud.docker.com/swarm/vineeth1/repository/list"},
+          {"name":"Google Cloud Platform","link":"https://cloud.google.com"}
+      ]
+  }
+]

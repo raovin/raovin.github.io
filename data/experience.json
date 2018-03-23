@@ -1,0 +1,20 @@
+[
+    {
+        "role":"IT Support Specialist",
+        "company":"Audley Travel, Boston, MA, USA",
+        "summary":"- Achieved highest ticket throughput & closure and 100% customer satisfaction rate for Q-1 2017. - Earned President’s Award for Values (Positivity) in Q-1 2017. Won Top Performer Award in H-1 2017. - Saved time and resources for both end-user and IT department by automating regular tasks. - Administered user accounts through Active Directory and email through Mimecast & Exchange consoles. - Remotely collaborated with colleagues in software development and IT infrastructure in offices in London, UK and company headquarters in Witney, UK. - Participated in sales training to appreciate Audley’s approach to successful sales in the travel industry",        
+        "range":"November 2016 - Present"
+    },
+    {
+        "role":"Application Support Engineer",
+        "company":"Peakwork AG, Düsseldorf, Germany",
+        "summary":"- Installed, modified, upgraded and maintained the LAMP-based Peakwork application stack.- Collaborated closely with geographically dispersed colleagues in software development, project management and business development. - Helped identify customer-specific needs and explained complex problem-solving processes to international clients in a dynamic and deadline driven environment.- Assisted the department in transitioning from MediaWiki to Confluence for documentation and collaboration, and from MantisBT to JIRA for issue and project tracking.",
+        "range":"April 2016 - August 2016"
+    },
+    {
+        "role":"Help Desk Tier 1",
+        "company":"Hamilton College, Clinton, NY, USA",
+        "summary":"- Trained new student employees and formulated ways to revamp Help Desk workflow. - Communicated, diagnosed and resolved issues with clients of varying technical abilities.- Delivered 100% customer satisfaction in June 2015. Achieved highest ticket closure in Sep. 2015.",
+        "range":"May 2013 - December 2015"
+    }
+]
