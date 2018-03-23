@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Networking",
-      "skills":[ "IP Networking","DNS","DHCP","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "IP Networking","DNS","DHCP","Firewalls"]
   },
   {
       "grouping":"Operating Systems",
@@ -18,7 +18,7 @@
 
   {
       "grouping":"Platform Development & Administration",
-      "skills":["Atlassian","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":["Atlassian","Bitbucket","NGINX","MySQL"]
   },
   
   {
