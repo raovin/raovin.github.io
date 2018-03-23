@@ -1,4 +1,5 @@
 baseURL = "https://rao.vin/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Vineeth Rao"
 theme = "resume"
