@@ -55,5 +55,10 @@ theme = "resume"
     icon = "key"
     link = "https://keybase.io/vineeth"
 
+[[params.handles]]
+    name = "Stack Overflow"
+    icon = "Stack Overflow"
+    link = "www.google.com"
+
 [params.google.analytics]
     trackerID = "UA-115746444-1"
